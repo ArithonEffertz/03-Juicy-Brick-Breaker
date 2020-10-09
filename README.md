@@ -10,6 +10,7 @@ Typeface: [Datalegreya](https://fontlibrary.org/en/font/datalegreya) by Figs Lab
 All other sprites created by Jason Francis in Photoshop
 Music created by Arithon Effertz.
 Sound effects from Freesound.
+Features included are music, sound effects, background, colors, trail and visual effects, screen shake and blur.
 
 ## References
 [Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
